@@ -1,5 +1,5 @@
 #include<iostream>
-#include<windows.h>
+#include<windows.h> 
 using namespace std ;
 void IsEqual( int num1 , int num2 );
 int main( ) {
